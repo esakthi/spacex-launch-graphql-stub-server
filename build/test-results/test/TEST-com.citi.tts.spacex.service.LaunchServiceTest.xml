@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.citi.tts.spacex.service.LaunchServiceTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-09-01T06:49:57.018Z" hostname="devbox" time="0.617">
+  <properties/>
+  <testcase name="testGetLaunch_notFound()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.529"/>
+  <testcase name="testCreateLaunch()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.017"/>
+  <testcase name="testUpdateLaunch()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.021"/>
+  <testcase name="testDeleteLaunch_notFound()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.005"/>
+  <testcase name="testGetLaunches()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.021"/>
+  <testcase name="testDeleteLaunch()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.004"/>
+  <testcase name="testGetLaunchesByMissionName()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.004"/>
+  <testcase name="testUpdateLaunch_notFound()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.004"/>
+  <testcase name="testGetLaunch()" classname="com.citi.tts.spacex.service.LaunchServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

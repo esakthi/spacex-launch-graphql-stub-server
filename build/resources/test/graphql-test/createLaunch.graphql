@@ -1,0 +1,6 @@
+mutation createLaunch($mission_name: String!) {
+    createLaunch(input: { mission_name: $mission_name }) {
+        id
+        mission_name
+    }
+}

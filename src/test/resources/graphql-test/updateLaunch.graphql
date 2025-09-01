@@ -1,0 +1,6 @@
+mutation updateLaunch($id: ID!, $mission_name: String!) {
+    updateLaunch(id: $id, input: { mission_name: $mission_name }) {
+        id
+        mission_name
+    }
+}

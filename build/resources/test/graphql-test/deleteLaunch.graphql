@@ -1,0 +1,3 @@
+mutation deleteLaunch($id: ID!) {
+    deleteLaunch(id: $id)
+}
